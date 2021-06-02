@@ -12,7 +12,7 @@ With help of **ClickOnce** we can install and run Windows application by clickin
  :two: **Run the application** <br>
  ![Do you want to run](https://user-images.githubusercontent.com/58290791/113137411-cb2af480-9224-11eb-9194-5c113fb7e299.PNG)
 
-## ClickOnce Chromium Edge
+### Enable ClickOnce Microsoft Edge
 
 ```powershell
 $path = "HKLM:\SOFTWARE\Policies\Microsoft\Edge"
