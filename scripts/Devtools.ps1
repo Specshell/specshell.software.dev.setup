@@ -1,5 +1,5 @@
 #Mandatory tools
-choco install microsoft-teams.install
+choco install microsoft-teams
 choco install github-desktop
 choco install git
 choco install vscode
@@ -19,9 +19,5 @@ choco install robo3t
 choco install spacesniffer
 choco install winscp
 choco install bloomrpc
-choco install AdoptOpenJDK11 --params="/ADDLOCAL=FeatureMain,FeatureEnvironment,FeatureJarFileRunWith,FeatureJavaHome /INSTALLDIR=C:\Program Files\AdoptOpenJDK\jdk11"
-choco install AdoptOpenJDK8 --params="/ADDLOCAL=FeatureMain,FeatureEnvironment /INSTALLDIR=C:\Program Files\AdoptOpenJDK\jdk8"
-#Maven requires jdk
-choco install maven
 
 RefreshEnv
