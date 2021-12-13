@@ -1,4 +1,4 @@
-# How to install the setup :wrench
+# How to install the setup 🔧
 
 With help of **ClickOnce** we can install and run Windows application by clicking a link in a web page. That makes the process easier for us because we do not need to set configurations for the installer. **ClickOnce** requests are handled by the native file handler in Windows.
 
