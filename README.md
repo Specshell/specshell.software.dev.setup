@@ -4,8 +4,7 @@ With help of **ClickOnce** we can install and run Windows application by clickin
 
 ## ClickOnce Microsoft Edge
 
-From Microsoft Edge>
-
+From Microsoft Edge:
 <pre><b><a href="https://boxstarter.org/package/url?https://raw.githubusercontent.com/Specshell/specshell.software.dev.setup/main/windows.ps1" rel="nofollow"">Click here to start install</a> </b></pre>
 
  :one: **Allow open the file** <br>
